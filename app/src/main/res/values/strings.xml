@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ConvertidordeUnidades</string>
+    <string-array name="unidadesMedida">
+        <item>Libras</item>
+        <item>Kg</item>
+        <item>Gramos</item>
+        <item>Onzas</item>
+        <item>Pulgadas</item>
+        <item>Metros</item>
+        <item>Centimetros</item>
+        <item>Milimetros</item>
+        <item>Kilometros</item>
+        <item>Pies</item>
+    </string-array>
+    <string-array name="unidadesPeso">
+        <item>Libras</item>
+        <item>Kg</item>
+        <item>Gramos</item>
+        <item>Onzas</item>
+    </string-array>
+    <string-array name="unidadesDistancia">
+        <item>Pulgadas</item>
+        <item>Metros</item>
+        <item>Centrimetros</item>
+        <item>Milimetros</item>
+        <item>Pies</item>
+    </string-array>
+
+
+    <string name="icon">Spinner - danielme.com</string>
+    <string name="none">none</string>
+    <string name="libra">Libras</string>
+    <string name="kg">Kg</string>
+    <string name="gramos">Gramos</string>
+    <string name="onzas">Onzas</string>
+    <string name="milimetros">Milimetros</string>
+    <string name="centimetros">Centimetros</string>
+    <string name="pulgadas">Pulgadas</string>
+    <string name="metros">Metros</string>
+    <string name="km">Kilometros</string>
+    <string name="pies">Pies</string>
+
+</resources>
